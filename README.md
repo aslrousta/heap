@@ -1,3 +1,3 @@
 # Generic Heap
 
-This library provides a generic implementation of binary heap in Go.
+_Note_: This library is no longer maintained. Use [ds](https://github.com/aslrousta/ds) instead.
